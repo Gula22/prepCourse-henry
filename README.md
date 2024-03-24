@@ -1,2 +1,4 @@
-# prepCourse-henry
-Este es un repositorio de prueba del modulo 2 
+Horacio Damian 
+
+este proyecto es una prueba de clonacion y modificacion del repositorio
+
